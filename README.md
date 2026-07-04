@@ -58,7 +58,7 @@ Focus: "Building scalable, clean, and maintainable server-side solutions"
 
 | Project                         | Description                                                | Tech Stack                         |
 | ------------------------------- | ---------------------------------------------------------- | ---------------------------------- |
-| **[Project Name 1](repo-link)** | RESTful API for [domain] with JWT auth & role-based access | C#, .NET Core, EF Core, SQL Server |
+| **[Inventory_System](https://github.com/lifeparmaga-rgb/InventorySystem)** | RESTful API for [domain] with JWT auth & role-based access | C#, .NET Core, EF Core, SQL Server |
 
 ---
 
