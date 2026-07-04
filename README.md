@@ -26,7 +26,7 @@
 
 
 ```yaml
-Name: "Mahmoud Fayez"
+Name: "Mahmoud Fayez Rady"
 Role: "Back-End Developer"
 Specialization: "C# | .NET Core | RESTful APIs | SQL Server"
 Education: "Backend Development Diploma"
