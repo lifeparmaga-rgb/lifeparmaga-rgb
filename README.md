@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Hey!+I'm+a+Back-End+Developer;C%23+%7C+.NET+Core+%7C+SQL+Server;Building+Scalable+APIs+%26+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Hey!+I'm+a+Back-End+Developer;C%23+%7C+.NET+Core+%7C+SQL+Server;Building+Scalable+APIs+%26+Microservices" alt="Typing SVG" />
 </p>
 
 <p align="center">
